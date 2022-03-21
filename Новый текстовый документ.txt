@@ -1,0 +1,22 @@
+        <section class="main__container">
+            <div class="row content">
+                <div class="col-3 jumbotron bg-white w-auto h-auto">
+                    <p><img class="img-responsive" src="/assets/images/img3.png" alt="Illustration scientist">
+                    </p>
+                    <h1 class="jumbotron_style">БЕЗ ПРОВОДОВ</h1>
+                    <p class="jumbotron_style_paragraph">Шлем работает без проводов. Не нужен ни компьютер,
+                        ни внешнее питание, ни большое помещение, чтобы расставить трекеры.</p>
+                </div>
+                <div class="col-3 jumbotron bg-white w-auto h-auto">
+                    <p><img class="img-responsive" src="/assets/images/img2.png" alt="Illustration robot"></p>
+                    <h1 class="jumbotron_style">БЕЗ КОМПЬЮТЕРА</h1>
+                    <p class="jumbotron_style_paragraph"> Современным VR-шлемам нужен мощный компьютер,
+                        чтобы запускать игры. Наш шлем запускает игры из облака, поэтому просто наслаждайтесь.</p>
+                </div>
+                <div class="col-3 jumbotron bg-white w-auto h-auto">
+                    <p><img class="img-responsive" src="/assets/images/img1.png" alt="Illustration programmer"></p>
+                    <h1 class="jumbotron_style">ДО 10 ЧАСОВ РАБОТЫ</h1>
+                    <p class="jumbotron_style_paragraph">Несмотря на компактность и производительность,
+                        шлем может работать до 10 часов — даже, если вы играете в самые ресурсоемкие игры.</p>
+                </div>
+            </div>

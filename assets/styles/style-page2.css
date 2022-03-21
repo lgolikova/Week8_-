@@ -1,0 +1,139 @@
+@font-face {
+    font-family: 'Intro';
+    src: url(/assets/fonts/Intro.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+h1,
+h2 {
+    font-family: "Intro", serif;
+}
+
+p {
+    font-family: "Roboto Slab", serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header__container {
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+}
+
+.header__button,
+.main-section__button {
+    border-radius: 100px;
+    background-color: #5222D0;
+    font-family: "Intro", serif;
+    font-size: 13px;
+    color: #FFFFFF;
+    padding: 15px;
+
+}
+
+.main-section__container {
+    margin-bottom: 70px;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+
+.main-section__title {
+    font-size: 60px;
+    margin-bottom: 40px;
+    margin-left: 36px;
+}
+
+.main-section__cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main-section__card {
+    width: 33%;
+    box-sizing: border-box;
+    padding: 25px 40px 25px 40px;
+
+}
+
+.main-section__image {
+    width: 100%;
+}
+
+.main-section__h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.main-section__p {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.main-section__news {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: #EC615B;
+    padding: 25px 22px 55px 20px;
+    margin-left: 46px;
+}
+
+.main-section__h2_news-h2 {
+    color: #FFFFFF;
+    font-size: 30px;
+    margin-bottom: 16px;
+}
+
+.main-section__input {
+    width: 347px;
+    border: none;
+    font-size: 20px;
+    font-family: "Roboto Slab", serif;
+    margin-bottom: 20px;
+    padding: 9px;
+    border: none;
+}
+
+h1,
+h2,
+p {
+    margin: 0;
+}
+
+.main-section__image_one {
+    margin-bottom: 18px;
+}
+
+.main-section__image_two {
+    margin-bottom: 10px;
+}
+
+.main-section__image_three {
+    margin-bottom: 14px;
+}
+
+
+.footer__container {
+    font-family: "Roboto Slab", serif;
+    font-size: 20px;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.footer__nav {
+    margin-right: 40px;
+    color: #000000;
+    margin-left: 40px;
+
+}

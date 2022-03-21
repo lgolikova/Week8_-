@@ -1,0 +1,58 @@
+.jumbotron .main-container__h1 {
+    font-family: Intro, sans-serif;
+    font-style: normal;
+    font-size: 5vw;
+    color: black;
+}
+
+.header__navbar .header__button {
+    border-radius: 25px;
+    font-family: Intro, sans-serif;
+    font-size: 13px;
+    background-color: #5222D0;
+    margin-right: 20px;
+    border: 1px solid #5222D0;
+    width: 115px;
+    height: 38px;
+}
+
+.lead .main-container__button {
+    border-radius: 50px;
+    font-family: Intro, sans-serif;
+    font-size: 35px;
+    background-color: #5222D0;
+    border: 1px solid #5222D0;
+    width: 270px;
+    height: 84px;
+    padding-top: 15px;
+    margin-top: 15px;
+
+}
+
+main .main-container {
+    margin-left: 50px;
+}
+
+
+footer .footer__navbar {
+    margin-left: 50px;
+
+}
+
+main .main-container__p-text {
+    font-family: Roboto, sans-serif;
+    font-size: 20px;
+    width: 430px;
+}
+
+.footer .footer__link {
+    font-size: 20px;
+    margin-left: 10px;
+    color: #5222D0;
+}
+
+
+@font-face {
+    font-family: 'Intro';
+    src: url(/assets/fonts/Intro.ttf);
+}
