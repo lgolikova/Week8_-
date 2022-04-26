@@ -59,7 +59,9 @@ main .main-container__p-text {
     max-width: 100%;
 }
 
-
+main .main-container {
+    margin: 0px;
+}
 
 
 @font-face {
